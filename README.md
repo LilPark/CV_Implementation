@@ -1,5 +1,6 @@
-# CV_Implementation <br>
-Computer Vision 분야 논문 구현
+# CV_Implementation
+
+- Computer Vision 분야 논문 구현
 ---
 
 
