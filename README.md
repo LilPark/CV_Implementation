@@ -4,6 +4,7 @@ Computer Vision 분야 논문 구현
 
 ## Image Classification
 ---
+- [] ResNet: Deep Residual Learning for Image Recognition(./)
 
 ## Object Detection
 ---
