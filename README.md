@@ -5,7 +5,7 @@
 
 
 ## Image Classification
-- [ ] ResNet: Deep Residual Learning for Image Recognition ([Paper](https://arxiv.org/abs/1512.03385) / [Code]())
+- [ ] ResNet: Deep Residual Learning for Image Recognition ([Paper](https://arxiv.org/abs/1512.03385) / [Review]() / [Code]())
 ---
 
 
